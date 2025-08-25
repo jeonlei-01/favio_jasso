@@ -182,9 +182,7 @@ onMounted(() => {
         </div>
         <div>
           <p class="text-base md:text-xl">
-            I am a Technology student at the County College of Morris with a strong background in
-            Software Development. Currently, I work as an Junior Data Engineer at Transparent
-            Energy, focusing on ETL processes and Automation.
+            I am a Software Engineer at Transparent Energy, where I develop full-stack web applications, architect ETL pipelines, and automate workflows to save teams significant time and resources. Currently completing my Associates at County College of Morris, I will be pursuing a B.S. in Web & Information Systems at NJIT beginning in 2026, continuing to expand my expertise at the intersection of software and data systems.
           </p>
         </div>
         <div>
