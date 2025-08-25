@@ -62,13 +62,13 @@ import { ref, onMounted } from 'vue'
 const experiences = [
   {
     college: 'Transparent Energy',
-    position: 'Jr. Data Engineer',
+    position: 'Software Engineer',
     image: '/image/transparent.svg',
     description: `<ul class="ml-3 list-disc">
-    <li>Develop <b>Python</b>-based data processing tools, automating workflows for cross-functional teams, reducing processing time by <b>~8 hours/week per team member and $100,000+ in time saved</b>.</li>
-    <li>Architect ETL pipelines & scripts (<b>Apache Airflow, Python</b>) to extract, transform, and load unstructured data (CSV, XLSX, PDF) into <b>MariaDB</b>, while extracting over <b>1,250,000+ data points</b>.</li>
-    <li>Implement <b>Large Language Models</b> (e.g., OpenAI, Gemini, DeepSeek) to develop AI-Agents enabling file parsing, summaries, and excel functions.</li>
-    <li>Assist analysts in Ad-Hoc financial, pricing, and marketing reports, leveraging <b>SQL</b> to compile important KPI metrics for C-Suite executives.</li>
+    <li>Develop and maintain full-stack web applications using <b>Vue.js, HTML, CSS, and Laravel</b>, supporting the company's core software platform and enhancing user experience across multiple product areas.</li>
+    <li>Develop <b>Python</b>-based data processing tools, automating workflows for cross-functional teams, reducing processing time by <b>~8 hours/week per team member and $100,000+ in total company time saved</b>.</li>
+    <li>Architect ETL pipelines & scripts (<b>Apache Airflow, Python</b>) to extract, transform, and load unstructured data (CSV, XLSX, PDF) into <b>MariaDB</b>, while extracting over <b>4,250,000+ data points</b>.</li>
+    <li>Lead Software Engineering initiatives creating Software Documentation (<b>ERD, PRD</b>, etc), and recruit and interview candidates leading to <b>2 hires</b>.</li>
   </ul>`
   },
   {
